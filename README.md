@@ -1,6 +1,6 @@
-# Puzzle UT2 · Pieza NN: Nombre de la pieza
+# Puzzle UT2 · Pieza 02: CPU: rendimiento y modelos
 
-**Grupo:** Nombre Apellido (@usuario) · Nombre Apellido (@usuario)
+**Grupo:** Iván Jelti Roldán (@Ivancillo07) · Nombre Apellido (@usuario)
 
 > Máximo 2 folios por las dos caras (unas 1.600–2.000 palabras) y al menos 3 imágenes en `img/`.
 
